@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey I'm Maurice, a software engineer primarily focusing on iOS Development. My experience started by internships at Apple Academy & Tokopedia. Now I help to build and maintain the Alfagift App. My goals is to deliver good quality app and make contributions to the developer community! 😁
+Hi, I'm Maurice 👋
 
-![alt](https://github-readme-stats.vercel.app/api?username=mauricetinn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br>
-![alt](https://github-readme-streak-stats.herokuapp.com/?user=mauricetinn&theme=tokyonight&hide_border=true) <br>
-![alt](https://camo.githubusercontent.com/c906a792579dff7b3b8cbd301be28119c3a5d583fe8a8d17a1aef81e00964814/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f7368786669267468656d653d7675652d6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374)
+I'm a software engineer who's shipped several apps to production and the App Store — right now my main focus is iOS, where I work close to the platform native framework and system APIs.
+
+Outside of iOS I like poking around other parts of the stack — backend, real-time systems, whatever a project actually needs. I'd rather understand how something works end-to-end than stay boxed into one layer.
+
+Currently building production features for Indodax, Indonesia's largest crypto exchange.
