@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Maurice 👋
 
-I'm a software engineer who's shipped several apps to production and the App Store — right now my main focus is iOS, where I work close to the platform native framework and system APIs.
+I'm a software engineer who's shipped several apps to production and the App Store — right now my main focus is building and maintaining iOS apps.
 
-Outside of iOS I like poking around other parts of the stack — backend, real-time systems, whatever a project actually needs. I'd rather understand how something works end-to-end than stay boxed into one layer.
+I like poking around other parts of the stack too — backend, real-time systems, whatever a project actually needs
 
 Currently building production features for Indodax, Indonesia's largest crypto exchange.
